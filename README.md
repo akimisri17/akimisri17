@@ -1,12 +1,11 @@
 ### Hi, I'm Akhil 👋
 
-Product leader (8+ yrs). I build my own tools. By day I lead Product + Engineering at Tint Tone and Shade, an interiors brand in India and Dubai, shipping our CRM, ERP and payments platform. By night I run a small fleet of AI coding agents and turn what I learn into free, local-first utilities.
+Developer turned product leader. I build my own tools. By day I lead Product + Engineering at Tint Tone and Shade, an interiors brand in India and Dubai. By night I run a small fleet of AI coding agents and turn what I learn into free, local-first utilities.
 
-**What I'm building now**
+**Currently working on**
 
-- **agent-wrapped** (open-sourcing soon): a "Spotify Wrapped" for your coding agents. It reads the Claude Code and Codex logs already on your laptop and shows where 30 days of agent work went: agent-hours, how long finished work sat waiting on you, usage-limit hits, and peak parallel agents. Zero dependencies. Nothing leaves your machine.
-- **agent-island** (coming): a menu-bar and tray app that tells you which agent is waiting on you and what to do before your weekly limit runs out. Works across Claude, Codex, Cursor and Gemini.
-- **Launch-week plugins**: when a new AI harness or plugin surface goes live, I aim to ship 3 tested plugins within 10 days.
+- **agent-island**: a local companion for people who run coding agents all day. It shows which agent is waiting on you, warns you before an account runs out, and includes **Wrapped**, a 30-day report of your agent work built from the logs already on your laptop. Nothing leaves your machine.
+- **Launch-month plugins**: when a new AI harness or plugin surface goes live, I ship tested plugins for it within 30 days.
 
 **How I work**
 
@@ -16,6 +15,9 @@ Product leader (8+ yrs). I build my own tools. By day I lead Product + Engineeri
 
 **Background**
 
-Now: Product + Engineering lead at Tint Tone and Shade. Before: Associate Director of Product at DesignCafe/HomeLane (+300 bps visitor-to-lead, ₹66L/month incremental revenue, ₹10 Cr+ annual leakage prevented). MCA, BMSIT Bengaluru.
+- **2017–2020 · Developer → Solutions Lead, Bluegild Solutions.** Chatbots and voice assistants (Dialogflow, Alexa, Lex), Node.js on AWS Lambda and Firebase, blockchain PoCs.
+- **2020–2021 · Lead Developer, Irisidea.** Led a US delivery-aggregator platform from PRD to launch (Node.js, Angular, MongoDB, AWS).
+- **2021–2025 · PM → Associate Director of Product, DesignCafe / HomeLane.** Chatbot funnel worth ₹66L/month, ₹10 Cr+ annual revenue leakage closed, +300 bps visitor-to-lead.
+- **Now · Product + Engineering lead, Tint Tone and Shade.** CRM, ERP and payments platform.
 
-[LinkedIn](https://www.linkedin.com/in/akhil-misri/)
+MCA, BMSIT Bengaluru · [LinkedIn](https://www.linkedin.com/in/akhil-misri/)
