@@ -15,9 +15,9 @@ Developer turned product leader. I build my own tools. By day I lead Product + E
 
 **Background**
 
-- **2017–2020 · Developer → Solutions Lead, Bluegild Solutions.** Chatbots and voice assistants (Dialogflow, Alexa, Lex), Node.js on AWS Lambda and Firebase, blockchain PoCs.
-- **2020–2021 · Lead Developer, Irisidea.** Led a US delivery-aggregator platform from PRD to launch (Node.js, Angular, MongoDB, AWS).
-- **2021–2025 · PM → Associate Director of Product, DesignCafe / HomeLane.** Chatbot funnel worth ₹66L/month, ₹10 Cr+ annual revenue leakage closed, +300 bps visitor-to-lead.
 - **Now · Product + Engineering lead, Tint Tone and Shade.** CRM, ERP and payments platform.
+- **2021–2025 · PM → Associate Director of Product, DesignCafe / HomeLane.** Chatbot funnel worth ₹66L/month, ₹10 Cr+ annual revenue leakage closed, +300 bps visitor-to-lead.
+- **2020–2021 · Lead Developer on Boons, Irisidea.** Led Boons, a US delivery app, from PRD to launch (Node.js, Angular, MongoDB, AWS).
+- **2017–2020 · Developer → Solutions Lead, Bluegild Solutions.** Chatbots and voice assistants (Dialogflow, Alexa, Lex), Node.js on AWS Lambda and Firebase, blockchain PoCs.
 
 MCA, BMSIT Bengaluru · [LinkedIn](https://www.linkedin.com/in/akhil-misri/)
