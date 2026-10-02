@@ -20,4 +20,4 @@ Developer turned product leader. I build my own tools. By day I lead Product + E
 - **2020–2021 · Lead Developer on Boons, Irisidea.** Led Boons, a US delivery app, from PRD to launch (Node.js, Angular, MongoDB, AWS).
 - **2017–2020 · Developer → Solutions Lead, Bluegild Solutions.** Chatbots and voice assistants (Dialogflow, Alexa, Lex), Node.js on AWS Lambda and Firebase, blockchain PoCs.
 
-MCA, BMSIT Bengaluru · [LinkedIn](https://www.linkedin.com/in/akhil-misri/)
+MCA, BMSIT Bengaluru · [LinkedIn](https://www.linkedin.com/in/akhil-misri/) · [Instagram @noonchai.dev](https://instagram.com/noonchai.dev)
